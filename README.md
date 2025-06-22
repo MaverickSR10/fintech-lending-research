@@ -1,4 +1,3 @@
-
 # 📄 Data-Driven Disruption: How UK FinTechs Are Reshaping Lending (2025)
 
 ## Overview
@@ -12,17 +11,13 @@ This report explores how UK-based FinTechs are redefining the lending ecosystem 
 - 🧠 Focus on FCA’s **Consumer Duty**, EU’s **AI Act**, and ethical credit modeling
 
 ## Structure
-- Executive Summary
-- UK Market Landscape
-- Lending Innovations (GenAI, Alt-Data)
-- FinTech–Bank Partnerships
-- Regulatory Insights
-- Global Comparisons
+- Executive Summary  
+- UK Market Landscape  
+- Lending Innovations (GenAI, Alt-Data)  
+- FinTech–Bank Partnerships  
+- Regulatory Insights  
+- Global Comparisons  
 - Strategic Takeaways for Banks
-
-## Read the Full Report
-📥 [Download PDF](link-to-pdf-if-hosted)  
-📄 [View DOCX](link-to-docx-if-hosted)
 
 ---
 
