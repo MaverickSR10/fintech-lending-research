@@ -20,10 +20,6 @@ This report explores how UK-based FinTechs are redefining the lending ecosystem 
 - Global Comparisons
 - Strategic Takeaways for Banks
 
-## Read the Full Report
-📥 [Download PDF](link-to-pdf-if-hosted)  
-📄 [View DOCX](link-to-docx-if-hosted)
-
 ---
 
 ### Author
