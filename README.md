@@ -11,15 +11,6 @@ This report explores how UK-based FinTechs are redefining the lending ecosystem 
 - 🤝 Case studies: **Zopa**, **Monzo**, **Klarna**, **Atom–Funding Circle**, **HSBC–Tradeshift**
 - 🧠 Focus on FCA’s **Consumer Duty**, EU’s **AI Act**, and ethical credit modeling
 
-## Structure
-- Executive Summary
-- UK Market Landscape
-- Lending Innovations (GenAI, Alt-Data)
-- FinTech–Bank Partnerships
-- Regulatory Insights
-- Global Comparisons
-- Strategic Takeaways for Banks
-
 ---
 
 ### Author
