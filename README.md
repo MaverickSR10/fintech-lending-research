@@ -1,5 +1,5 @@
 
-# 📄 Data-Driven Disruption: How UK FinTechs Are Reshaping Lending (2025)
+# 📄 Data-Driven Disruption: How UK FinTechs Are Reshaping Lending
 
 ## Overview
 This report explores how UK-based FinTechs are redefining the lending ecosystem through the use of AI, Open Banking, and alternative data. It also analyses how traditional banks are responding via modernization and strategic partnerships.
